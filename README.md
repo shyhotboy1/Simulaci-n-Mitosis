@@ -1,4 +1,4 @@
-# Simulaci-n-Mitosis
+# Simulacion-Mitosis
 
 Para los fines de esta actividad cada grupo de 3 estudiantes, asociados al azar, deberá diseñar:
 
