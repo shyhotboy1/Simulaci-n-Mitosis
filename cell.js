@@ -1,7 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/jxGS3fKPKJA
+
 
 function Cell(pos, r, c) {
   if (pos) {
